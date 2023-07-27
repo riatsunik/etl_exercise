@@ -8,6 +8,7 @@
   - Jupyter Notebook 8.12 or superior.
   - Python 3.10.12 or superior.
   - PostgreSQL 15 or superior.
+  - etl_exercise DB created
   ```
 
 You are given three different files, each corresponding to the output of 3 different sources, namely:
